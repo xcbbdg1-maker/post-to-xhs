@@ -3,6 +3,8 @@
 自动发布内容到小红书（Xiaohongshu/RED）的命令行工具，也支持仅启动测试浏览器（不发布）。
 通过 Chrome DevTools Protocol (CDP) 实现自动化发布，支持图文发布、视频发布、多账号管理、无头模式运行、自动搜索素材与内容数据抓取等功能。
 
+发布流程的产品范围、授权规则与验收标准见 [产品需求文档](docs/PRD.md)。
+
 ## 风险提示（重要）
 
 **使用本项目进行小红书自动化，存在被平台风控、限流、封号或封禁账号的风险。**
@@ -392,6 +394,8 @@ python scripts/chrome_launcher.py --kill
 ## 注意事项
 
 ### Windows 桌面数据看板
+
+只读统计看板现已拆分为独立 Skill：[`xhs-creator-stats`](https://github.com/xcbbdg1-maker/xhs-creator-stats)。本仓库保留其底层登录与数据读取运行时。
 
 `scripts/xhs_stats_dashboard.py` 提供一个只读的小红书创作数据窗口。启动时优先读取
 `~/.codex/xiaohongshu-stats/` 中的最新完整 CSV，用户点击“刷新数据”后才访问创作者
