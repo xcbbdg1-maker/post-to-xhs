@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title description">
   <title id="title">Star history for xcbbdg1-maker/post-to-xhs</title>
-  <desc id="description">0 GitHub stars as of 2026-08-20.</desc>
+  <desc id="description">0 GitHub stars as of 2026-08-21.</desc>
   <style>
     .title { fill: #111827; font: 600 20px system-ui, sans-serif; }
     .subtitle { fill: #6b7280; font: 13px system-ui, sans-serif; }
@@ -15,5 +15,5 @@
   <polyline points="503,298" fill="none" stroke="#e11d48" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
   <circle cx="503" cy="298" r="4.5" fill="#e11d48" />
   <text class="axis-label" x="503" y="336" text-anchor="middle">2026-08</text><text class="axis-label" x="503" y="336" text-anchor="middle">2026-08</text><text class="axis-label" x="503" y="336" text-anchor="middle">2026-08</text><text class="axis-label" x="503" y="336" text-anchor="middle">2026-08</text><text class="axis-label" x="503" y="336" text-anchor="middle">2026-08</text>
-  <text class="subtitle" x="930" y="353" text-anchor="end">Updated 2026-08-20 UTC</text>
+  <text class="subtitle" x="930" y="353" text-anchor="end">Updated 2026-08-21 UTC</text>
 </svg>
