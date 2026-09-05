@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title description">
   <title id="title">Star history for xcbbdg1-maker/post-to-xhs</title>
-  <desc id="description">1 GitHub stars as of 2026-09-04.</desc>
+  <desc id="description">1 GitHub stars as of 2026-09-05.</desc>
   <style>
     .title { fill: #111827; font: 600 20px system-ui, sans-serif; }
     .subtitle { fill: #6b7280; font: 13px system-ui, sans-serif; }
@@ -11,9 +11,9 @@
   <text class="title" x="76" y="30">Star history</text>
   <text class="subtitle" x="930" y="30" text-anchor="end">1 stars</text>
   <line class="grid" x1="76" y1="298" x2="930" y2="298" /><text class="axis-label" x="64" y="298" text-anchor="end" dominant-baseline="middle">0</text><line class="grid" x1="76" y1="298" x2="930" y2="298" /><text class="axis-label" x="64" y="298" text-anchor="end" dominant-baseline="middle">0</text><line class="grid" x1="76" y1="298" x2="930" y2="298" /><text class="axis-label" x="64" y="298" text-anchor="end" dominant-baseline="middle">0</text><line class="grid" x1="76" y1="58" x2="930" y2="58" /><text class="axis-label" x="64" y="58" text-anchor="end" dominant-baseline="middle">1</text><line class="grid" x1="76" y1="58" x2="930" y2="58" /><text class="axis-label" x="64" y="58" text-anchor="end" dominant-baseline="middle">1</text>
-  <path d="M 76 298 L 76,58 360.7,58 645.3,58 930,58 L 930 298 Z" fill="#fecdd3" opacity="0.65" />
-  <polyline points="76,58 360.7,58 645.3,58 930,58" fill="none" stroke="#e11d48" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 76 298 L 76,58 289.5,58 503,58 716.5,58 930,58 L 930 298 Z" fill="#fecdd3" opacity="0.65" />
+  <polyline points="76,58 289.5,58 503,58 716.5,58 930,58" fill="none" stroke="#e11d48" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
   <circle cx="930" cy="58" r="4.5" fill="#e11d48" />
-  <text class="axis-label" x="76" y="336" text-anchor="middle">2026-09</text><text class="axis-label" x="360.7" y="336" text-anchor="middle">2026-09</text><text class="axis-label" x="645.3" y="336" text-anchor="middle">2026-09</text><text class="axis-label" x="645.3" y="336" text-anchor="middle">2026-09</text><text class="axis-label" x="930" y="336" text-anchor="middle">2026-09</text>
-  <text class="subtitle" x="930" y="353" text-anchor="end">Updated 2026-09-04 UTC</text>
+  <text class="axis-label" x="76" y="336" text-anchor="middle">2026-09</text><text class="axis-label" x="289.5" y="336" text-anchor="middle">2026-09</text><text class="axis-label" x="503" y="336" text-anchor="middle">2026-09</text><text class="axis-label" x="716.5" y="336" text-anchor="middle">2026-09</text><text class="axis-label" x="930" y="336" text-anchor="middle">2026-09</text>
+  <text class="subtitle" x="930" y="353" text-anchor="end">Updated 2026-09-05 UTC</text>
 </svg>
